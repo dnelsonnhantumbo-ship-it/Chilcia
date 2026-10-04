@@ -1,0 +1,35 @@
+<svg width="620" height="150" viewBox="0 0 620 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Nhantumbo MG — Moageira, Xai-Xai">
+  <defs>
+    <radialGradient id="discGradLockup" cx="38%" cy="32%" r="80%">
+      <stop offset="0%" stop-color="#3D6FB8"/>
+      <stop offset="55%" stop-color="#2C5EA8"/>
+      <stop offset="100%" stop-color="#123055"/>
+    </radialGradient>
+  </defs>
+
+  <g transform="translate(5,5)">
+    <circle cx="70" cy="70" r="67" fill="#18243B"/>
+    <circle cx="70" cy="70" r="63" fill="url(#discGradLockup)"/>
+    <circle cx="70" cy="70" r="63" fill="none" stroke="#F8FAFD" stroke-width="0.9" opacity="0.35"/>
+
+    <circle cx="49" cy="38" r="3.6" fill="#F8FAFD"/>
+    <circle cx="59.5" cy="34.5" r="3.6" fill="#F8FAFD"/>
+    <circle cx="70" cy="33.2" r="4" fill="#F8FAFD"/>
+    <circle cx="80.5" cy="34.5" r="3.6" fill="#F8FAFD"/>
+    <circle cx="91" cy="38" r="3.6" fill="#F8FAFD"/>
+
+    <path d="M43,46 L97,46 L78,79 L62,79 Z" fill="#F8FAFD"/>
+    <rect x="64.5" y="79" width="11" height="18.5" fill="#F8FAFD"/>
+
+    <circle cx="70" cy="106" r="4" fill="#F8FAFD"/>
+    <circle cx="57" cy="112" r="2.9" fill="#8FADD6"/>
+    <circle cx="83" cy="112" r="2.9" fill="#8FADD6"/>
+    <circle cx="70" cy="118.5" r="3" fill="#C97A3B"/>
+  </g>
+
+  <text x="168" y="78" font-family="'Space Grotesk', 'IBM Plex Sans', sans-serif" font-weight="700" font-size="48" fill="#18243B">Nhantumbo</text>
+  <rect x="170" y="94" width="52" height="27" fill="#2C5EA8"/>
+  <text x="196" y="113.5" font-family="'IBM Plex Mono', monospace" font-weight="500" font-size="15.5" fill="#F8FAFD" text-anchor="middle">MG</text>
+  <text x="234" y="114" font-family="'IBM Plex Mono', monospace" font-weight="500" font-size="14" fill="#7186A3" letter-spacing="0.6">MOAGEIRA · XAI-XAI</text>
+  <line x1="168" y1="36" x2="470" y2="36" stroke="#DCE6F3" stroke-width="1.5"/>
+</svg>
